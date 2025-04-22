@@ -13,4 +13,4 @@ try:
 except Exception as e:
     print("❌ Connection failed")
     print("Error:", e)
-# deploy trigger2
+# deploy trigger
